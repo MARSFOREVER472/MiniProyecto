@@ -4,4 +4,4 @@
 
 ### **_Proyecto real con Javascript. Cómo capturar y/o extraer el proveedor de dominio de un email utilizando código Javascript:_**
 
-- _Ejemplos de programas realizados en Javascript._
+- **_Ejemplos de programas realizados en Javascript._**
